@@ -1,1 +1,1 @@
-Proyecto Torres de Hanoic en JavaScript
+Proyecto las 3 Torres en JavaScript
